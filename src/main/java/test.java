@@ -1,4 +1,4 @@
 public class test
 {
-    public static String test = "sosat";
+    public static String test = "укшпгрукшпгр";
 }
