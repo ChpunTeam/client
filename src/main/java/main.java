@@ -2,7 +2,7 @@ public class main
 {
     public static void main(String[] args)
     {
-        System.out.println("test huy sosat");
+        System.out.println("Тест хуй сосать");
     }
 
 }
